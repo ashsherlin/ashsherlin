@@ -22,7 +22,7 @@ While I've been working on my technical skills, I've also been optimizing BA web
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashsherlin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashleysherlin/)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashleysherlin/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashsherlin)](https://github.com/anuraghazra/github-readme-stats)
 
