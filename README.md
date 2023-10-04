@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
         
-I just started a part-time program focused on Java programming language, with a focus on developing dynamic and versatile web applications using modern technologies like Spring Boot, RESTful web services, CSS, JavaScript, and Vue.js. I am eager to gain practical experience, build a solid foundation in programming fundamentals, and advance my skills as a software developer.
+Hello World! Currently transitioning from a Marketing expert to a Software Developer, I bring a unique blend of skills to the table. I've recently completed a rigorous 40-week Full Stack bootcamp at Tech Elevator focusing on Java, PostgreSQL and Vue.js. During the lockdown, I also expanded my horizons with the Odin Project and Udemy courses. Besides technical expertise, my strong background in Communication and Elementary Education equips me to simplify complex tech jargon. 
+
+While I've been working on my technical skills, I've also been optimizing BA websites to boost donations and designing content for a donor loyalty program, which saw a 20% increase in turnout. On the side, I'm delving into Python. So, if you need a perpetual 'techie' who can translate intricate tech concepts into understandable language, feel free to reach out!
 
 
 
